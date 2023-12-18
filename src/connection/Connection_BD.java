@@ -14,7 +14,7 @@ public class Connection_BD {
     private final String driver = "com.mysql.jdbc.Driver";
     private final String caminho = "jdbc:mysql://localhost:3306/MercadinhoGosling";
     private final String usuario = "root";
-    private final String senha = "**199408"; //123
+    private final String senha = ""; //
     public Connection con;
 
     public void Conexao() {
